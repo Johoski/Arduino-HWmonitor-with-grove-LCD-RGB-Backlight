@@ -1,0 +1,6 @@
+[submodule "HWmon_display"]
+	path = HWmon_display
+	url = https://github.com/Johoski/HWmon_display.git
+[submodule "HWmon"]
+	path = HWmon
+	url = https://github.com/Johoski/HWmon.git
